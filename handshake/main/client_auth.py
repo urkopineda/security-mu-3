@@ -1,0 +1,9 @@
+class ClientAuth:
+
+    AUTH_REQUEST_CODE = 0x00
+    CHALLENGE_CODE = 0x01
+    RESPONSE_CODE = 0x02
+    SUCCESS_CODE = 0x03
+    FAILURE_CODE = 0x04
+
+    
